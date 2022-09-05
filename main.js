@@ -1,5 +1,5 @@
 
-
+/*
 let cont = prompt ("este contador llega solo hasta el numero 100: ingrese desde que numero desea contar");
 while (cont <=100) {
     console.log(cont + " ");
@@ -7,3 +7,11 @@ while (cont <=100) {
     document.write(cont + " ");
     cont++;
 }
+*/
+
+
+function saludar(nombre){
+    return 'hola ' + nombre;
+}
+
+console.log(saludar('Francisco'));
