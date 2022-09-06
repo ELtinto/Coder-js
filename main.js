@@ -10,8 +10,6 @@ while (cont <=100) {
 */
 
 
-function saludar(nombre){
-    return 'hola ' + nombre;
-}
 
-console.log(saludar('Francisco'));
+
+    
